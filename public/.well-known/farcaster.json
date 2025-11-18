@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI3NDE1OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDIwMEJiMDM1Mjc3RDM5N2JhN0JEYzVjNzgxNjEyOEQwNjEwZDEwQWQifQ",
+    "payload": "eyJkb21haW4iOiJwcmVkaWN0LW5qZmgwZGNqZC1iaWd3aW41NzU4cy1wcm9qZWN0cy52ZXJjZWwuYXBwIn0",
+    "signature": "UUfPmpwU2EWPRJpSfHBna4JjluYIJTn5lsO3hb+Gvm8kjhv1WulwE1fs/VVE1ri1CJHhy/MXMxfNsrfnotWS7hs="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/icon.png",
+    "homeUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app",
+    "imageUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/api/webhook"
+  }
+}
