@@ -1,18 +1,18 @@
 {
   "accountAssociation": {
     "header": "eyJmaWQiOjI3NDE1OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDIwMEJiMDM1Mjc3RDM5N2JhN0JEYzVjNzgxNjEyOEQwNjEwZDEwQWQifQ",
-    "payload": "eyJkb21haW4iOiJwcmVkaWN0LW5qZmgwZGNqZC1iaWd3aW41NzU4cy1wcm9qZWN0cy52ZXJjZWwuYXBwIn0",
-    "signature": "UUfPmpwU2EWPRJpSfHBna4JjluYIJTn5lsO3hb+Gvm8kjhv1WulwE1fs/VVE1ri1CJHhy/MXMxfNsrfnotWS7hs="
+    "payload": "eyJkb21haW4iOiJqYXp6eS1tb29uY2FrZS01OGQzZWUubmV0bGlmeS5hcHAifQ",
+    "signature": "Huf1ByDOF9csX1YJbvs2mBNdPA5Rdv+jXT8IWHZmuytcGyMvcYqWQfJwMS0rs54Qu/TQLYIfKjKsJyMKBStddhs="
   },
   "frame": {
     "version": "1",
     "name": "Example Frame",
-    "iconUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/icon.png",
-    "homeUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app",
-    "imageUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/image.png",
+    "iconUrl": "https://jazzy-mooncake-58d3ee.netlify.app/icon.png",
+    "homeUrl": "https://jazzy-mooncake-58d3ee.netlify.app",
+    "imageUrl": "https://jazzy-mooncake-58d3ee.netlify.app/image.png",
     "buttonTitle": "Check this out",
-    "splashImageUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/splash.png",
+    "splashImageUrl": "https://jazzy-mooncake-58d3ee.netlify.app/splash.png",
     "splashBackgroundColor": "#eeccff",
-    "webhookUrl": "https://predict-njfh0dcjd-bigwin5758s-projects.vercel.app/api/webhook"
+    "webhookUrl": "https://jazzy-mooncake-58d3ee.netlify.app/api/webhook"
   }
 }
